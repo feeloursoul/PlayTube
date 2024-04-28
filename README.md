@@ -14,31 +14,31 @@ YouTube Bulk Playlist Downloader
 
 ⚡  Quick start
 
-1. Install pytube
+1.  Install pytube
 
 ```
 pip install pytube3
 ```
 <br>
-2. Download exe.file via Release page
+2.  Download exe.file via Release page
 <br>
 <br>
-3. Run PlayTube.exe and display command prompt and Popup Windows 
+3.  Run PlayTube.exe and display command prompt and Popup Windows 
 <br>
 <br>
-4. Copy & Paste YouTube playlist URL Link (Ctrl+V)
+4.  Copy & Paste YouTube playlist URL Link (Ctrl+V)
 <br>
 <br>
 5. Automatic downloading all media .mp4 files
 <br>
 <br>
-6. Please wait for complete downloading
+6.  Please wait for complete downloading
 <br>
 <br>
-7. That's all
+7.  That's all
 <br>
 <br>
-####  👨‍💻 Author
+#### 👨‍💻Author
 <br>
 <br>
   oneplusbox(purebox)

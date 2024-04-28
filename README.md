@@ -4,9 +4,11 @@
 YouTube Bulk Playlist Downloader
 <br>
 <br>
+
 ## Requirements
 
 <br>
+
 $ Python
 
 $ pytube
@@ -33,7 +35,7 @@ and displaying command prompt. Popup another Windows.
   
 * Please wait for downloading a little.
 
-#### Thank you 🤗🤗
+#### Message 🤗🤗
 
 <br>
 ~ Happy Coding ~
@@ -43,7 +45,9 @@ and displaying command prompt. Popup another Windows.
 ##### Related Links
 
 <br>
-[auto-py-to-exe]https://github.com/brentvollebregt/auto-py-to-exe
+
+[auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe)
+
 <br>
 <br>
 

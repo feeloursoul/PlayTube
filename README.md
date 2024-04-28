@@ -20,9 +20,9 @@ $ pytube
 pip install pytube3
 ```
 
-* Download exe.file via Release page
+* Download file via Release page
 
-* Run PlayTube.exe or PlayTube.py
+* Run PlayTube.py
 and displaying command prompt. Popup another Windows.
 <br>
    Copy & Paste YouTube playlist URL Link ( Ctrl+V )
@@ -32,5 +32,5 @@ and displaying command prompt. Popup another Windows.
 * Please wait for downloading a little.
 
 #### Thank you 🤗🤗
- Let's Enjoy !!
+ Happy Coding !!
 

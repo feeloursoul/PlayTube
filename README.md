@@ -1,16 +1,16 @@
-# PlayTube
+  # PlayTube
 
-YouTube bulk playlist video downloader easy.
+YouTube Bulk Playlist Downloader
 
-## Requirements
+  ## Requirements
 
-> Python
+>> Python
 
-> pytube
+>> pytube
 
-### ⚙️ Installation
+  ### ⚙️ Installation
 
-⚡　Quick start
+⚡  Quick start
 
 1. Install pytube
 
@@ -30,7 +30,7 @@ pip install pytube3
 
 7. That's all
 
-####  👨‍💻 Author
+  ####  👨‍💻 Author
 
-oneplusbox
+    oneplusbox
 

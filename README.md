@@ -29,9 +29,14 @@ pip install pytube3
 * Run playtube.py
 
 <br>
-and displaying command prompt. Popup another Windows.
+
+and displaying command prompt.
+Popup another Windows open.
+
 <br>
-   Copy & Paste YouTube playlist URL Link 
+<br>
+
+Copy & Paste YouTube playlist URL Link 
    
 ※　Important !! URL Paste short cut ( Ctrl+V )
   

@@ -38,8 +38,10 @@ Popup another Windows open.
 
 Copy & Paste YouTube playlist URL Link 
    
-※　Important !! URL Paste short cut ( Ctrl+V )
-  
+※Important !! URL Paste short cut ( Ctrl+V )
+<br>
+<br>
+
 * Automatic start downloading all media mp4 files
   
 * Please wait for downloading a little.

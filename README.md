@@ -26,10 +26,14 @@ pip install pytube3
 
 * Download file via Release page
 
-* Run PlayTube.py or PlayTube.exe
+* Run playtube.py
+
+<br>
 and displaying command prompt. Popup another Windows.
 <br>
-   Copy & Paste YouTube playlist URL Link ( Ctrl+V )
+   Copy & Paste YouTube playlist URL Link 
+   
+※　Important !! URL Paste short cut ( Ctrl+V )
   
 * Automatic start downloading all media mp4 files
   
@@ -38,7 +42,7 @@ and displaying command prompt. Popup another Windows.
 #### Message 🤗🤗
 
 <br>
-~ Happy Coding ~
+~ Happy Coding 🤪 ~
 <br>
 <br>
 

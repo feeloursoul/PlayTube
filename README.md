@@ -1,7 +1,9 @@
 # PlayTube
 
 <br>
-YouTube Bulk Playlist Downloader
+PlayTube no longer works anymore.
+It is recommended to use "pytubefix"
+https://github.com/JuanBindez/pytubefix
 <br>
 <br>
 
@@ -45,23 +47,6 @@ Copy & Paste YouTube playlist URL Link
 * Automatic start downloading all media mp4 files
   
 * Please wait for downloading a little.
-
-<br>
-
-#### Message 🤗🤗
-
-<br>
-~ Happy Coding 🤪 ~
-<br>
-<br>
-
-##### Related Links
-
-<br>
-
-[auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe)
-
-<br>
 <br>
 
 
